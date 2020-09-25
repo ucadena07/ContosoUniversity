@@ -166,10 +166,14 @@ C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\bin\Debug\netcoreapp3.1\
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csproj.CoreCompileInputs.cache
-C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Views\Students\Create.cshtml.g.cs
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Views\Students\Details.cshtml.g.cs
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ucade\Documents\MVC\Tutorial\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
